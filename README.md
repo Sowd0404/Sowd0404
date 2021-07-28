@@ -1,6 +1,8 @@
 ### Hi, my name is Sowd 
 
-I'm currently working on a project known as [Sowd Hub] and you can contact me via it's discord server :) 
+I'm currently working on a project known as [Sowd Hub] and you can contact me via it's discord server :)
+
+
 
 <table>
   <tr>
@@ -12,5 +14,7 @@ I'm currently working on a project known as [Sowd Hub] and you can contact me vi
         </td>
   </tr>
 </table>
+
+<img align="center" style="padding=0;" src="https://komarev.com/ghpvc/?username=Sowd0404"/> 
 
 [Sowd Hub]: https://discord.gg/UsbwKX52ee
