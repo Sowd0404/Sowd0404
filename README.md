@@ -1,20 +1,24 @@
-### Hi, my name is Sowd 
+```zsh
+> neofetch
+```
 
-I'm currently working on a project known as [Sowd Hub] and you can contact me via it's discord server :)
+<img align="left" src="https://raw.githubusercontent.com/Sowd0404/Sowd0404/main/Assets/L.png" alt="logo.jpg" width="200" /> 
 
+```csharp
+Sowd@github
+----------------
+       OS  :  Windows 11
+      CPU  :  Intel(R) Core(TM) i7-10700 CPU @ 2.90GHz
+    Alias  :  sowdsowd/Sowd0404
+Languages  :  Lua, Javascript, Typescript
+  Discord  :  852350438094143508
+```
 
-
-<table>
-  <tr>
-        <td align="center" style="padding=0;width=50%;">
-          <img align="center" style="padding=0;" src="https://grs.quantumly.dev/api/?username=sowd0404&show_icons=true&title_color=5865f2&text_color=9f9f9f&bg_color=00000000&hide_border=true&icon_color=5865f2&hide_title=true&count_private=true"/>
-        </td>
-        <td align="center" style="padding=0;width=50%;">
-          <img align="center" style="padding=0;" src="https://grs.quantumly.dev/api/top-langs/?username=Sowd0404&layout=compact&show_icons=true&title_color=4F8CC9&text_color=9f9f9f&bg_color=00000000&hide_border=true&icon_color=5865f2&count_private=true"/>
-        </td>
-  </tr>
-</table>
-
-<img align="center" style="padding=0;" src="https://komarev.com/ghpvc/?username=Sowd0404"/> 
-
-[Sowd Hub]: https://discord.gg/UsbwKX52ee
+<p align="left">
+  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+  <img alt="#474342" src="https://via.placeholder.com/15/ADBAC7/000000?text=+" width="25" height="20" />
+  <img alt="#fbedf6" src="https://via.placeholder.com/15/6CB6FF/000000?text=+" width="25" height="20" />
+  <img alt="#c9594d" src="https://via.placeholder.com/15/F47067/000000?text=+" width="25" height="20" />
+  <img alt="#f8b9b2" src="https://via.placeholder.com/15/DCBDFB/000000?text=+" width="25" height="20" />
+  <img alt="#f8b9b2" src="https://via.placeholder.com/15/57ab5a/000000?text=+" width="25" height="20" />
+</p>
