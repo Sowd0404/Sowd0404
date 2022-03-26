@@ -13,7 +13,7 @@ Sowd@github
     Alias  :  sowdsowd/Sowd0404
 Languages  :  Lua, Javascript, Typescript
   Discord  :  852350438094143508
-VSC Theme  :  Monkai++
+    Theme  :  Monkai++
 ```
 
 <p align="left">
