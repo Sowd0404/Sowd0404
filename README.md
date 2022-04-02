@@ -1,3 +1,4 @@
+<a href="https://discord.com/users/852350438094143508"><img src="https://lanyard-profile-readme.vercel.app/api/852350438094143508?idleMessage=Usually%20active/></a>
 ```zsh
 > neofetch
 ```
