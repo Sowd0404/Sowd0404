@@ -1,4 +1,4 @@
-[![Discord Presence](https://lanyard.cnrad.dev/api/852350438094143508)](https://discord.com/users/852350438094143508)
+<center>[![Discord Presence](https://lanyard.cnrad.dev/api/852350438094143508)](https://discord.com/users/852350438094143508)</center>
 ```zsh
 > neofetch
 ```
