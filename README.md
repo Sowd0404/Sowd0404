@@ -1,4 +1,4 @@
-<a href="https://discord.com/users/852350438094143508"><img src="https://lanyard-profile-readme.vercel.app/api/852350438094143508?idleMessage=Usually%20active"/></a>
+[![Discord Presence](https://lanyard.cnrad.dev/api/852350438094143508)](https://discord.com/users/852350438094143508)
 ```zsh
 > neofetch
 ```
