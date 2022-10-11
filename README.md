@@ -1,4 +1,4 @@
-[![Discord Presence](https://lanyard.cnrad.dev/api/852350438094143508)](https://discord.com/users/852350438094143508)
+[![Discord Presence](https://lanyard.cnrad.dev/api/1012132196078866562)](https://discord.com/users/1012132196078866562)
 ```zsh
 > neofetch
 ```
@@ -13,7 +13,7 @@ Sowd@github
       GPU  :  NVIDIA GeForce RTX 3070
     Alias  :  sowdsowd/Sowd0404
 Languages  :  Lua, Javascript, Typescript
-  Discord  :  852350438094143508
+  Discord  :  1012132196078866562
     Theme  :  Zero Two 
 ```
 
