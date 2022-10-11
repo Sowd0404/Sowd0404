@@ -8,13 +8,13 @@
 ```csharp
 Sowd@github
 ----------------
-       OS  :  Arch Linux
+       OS  :  Windows 11 
       CPU  :  Intel(R) Core(TM) i7-10700 CPU @ 2.90GHz
       GPU  :  NVIDIA GeForce RTX 3070
     Alias  :  sowdsowd/Sowd0404
 Languages  :  Lua, Javascript, Typescript
   Discord  :  852350438094143508
-    Theme  :  Monkai++
+    Theme  :  Zero Two 
 ```
 
 <p align="left">
